@@ -56,4 +56,4 @@ To avoid the infinite loop and also to find the Goal State I implemented the fol
 
 ==========================================================================
 
-__[ I have discussed the logic of this code with one of my friend Rushikesh (rpharate). We basically discussed what would be the range and movement to check the pichu position in each direction. for example - to check the pichu in the upper right direction, we traverse the row-1 and column+, so on and so forth. ]__
+__[ I have discussed the logic of this code with one of my friend. We discussed what would be the range and movement to check the pichu position in each direction. for example - to check the pichu in the upper right direction, we traverse the row-1 and column+1, so on and so forth. ]__
